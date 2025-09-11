@@ -1,0 +1,6 @@
+print('Hello \' World')
+print('Hello World', "Harry", 5)
+print("hello world")
+print('Hello World', "harry", 5, sep=",")
+print('harry', end="//")
+print('Hello world')
